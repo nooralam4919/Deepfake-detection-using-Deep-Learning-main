@@ -1,6 +1,6 @@
 #!/bin/bash
 
-NAME="project_settings"                                  # Name of the application
+NAME="project_settings"                                  # Name of the applicatio
 DJANGODIR=/app             # Django project directory
 SOCKFILE=/app/run/gunicorn.sock  # we will communicte using this unix socket
 NUM_WORKERS=3                                     # how many worker processes should Gunicorn spawn
