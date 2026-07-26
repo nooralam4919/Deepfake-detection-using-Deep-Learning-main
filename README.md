@@ -6,7 +6,7 @@ This projects aims in detection of video deepfakes using deep learning technique
 
 **Note :** Nvidia GPU is mandatory to run the application.
 - CUDA version >= 10.0 for GPU
-- GPU Compute Capability > 3.0 .
+- GPU Compute Capability > 3.0 
 
 
 Main requirements are listed below:
